@@ -1,4 +1,4 @@
-# Thred
+# Thread
 
 **The connective thread through BYU Computer Science career preparation.**
 
